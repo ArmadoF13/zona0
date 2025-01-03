@@ -1,2 +1,1 @@
-# zona0
-este es un repositorio de prueba  para entrenar 
+este proyecto es una pueva para aprender a como crear un repositorio y clonarlo  desde  gitahub en mi computadora local o escritorio local
